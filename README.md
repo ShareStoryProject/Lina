@@ -1,5 +1,6 @@
 # Lina
 Introduction to Lina's work
+
 Everyone has a story to share, we write a website to communicate with others. There are five parts in our project: Home, Travelling, Literature, Entertainment and Contact. For me, I'm responsible for the Home, Literature and Contact.
 
 In the Home page, the users can sign in and sign up (which are  fake ones). They can go to the part they want to read directly by clicking the buton. Besides, there are some introductions to our writers for the stories. At the bottom of the page, there is some contact information for the users.
