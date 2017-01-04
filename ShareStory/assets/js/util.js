@@ -1,3 +1,6 @@
+/*A Design by ShareStoryGroup
+Author: Lina Yuhang Andi
+*/
 (function($) {
 
 	/**

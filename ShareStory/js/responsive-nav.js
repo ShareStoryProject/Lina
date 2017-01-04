@@ -1,4 +1,6 @@
-
+/*A Design by ShareStoryGroup
+Author: Lina Yuhang Andi
+*/
 var ww = document.body.clientWidth;
 
 $(document).ready(function() {
